@@ -62,26 +62,26 @@ nav.black ul li a{
 section.sec1{
     width: auto;
     height: 100vh;
-    background-image: url(../image1.jpg);
+    background-image: url(image1.jpg);
     background-size: cover;
     background-position: center;
     
 }
 .content{
     margin-top: 20px;
-    text-align: center;
+    text-align: left;
     margin-bottom: 40px;
     
 }
 
 .content p{
-    width: 900px;
-    margin: 30px auto;
-    text-align: justify;
+    
+    margin: 20px auto;
+    text-align: left;
     font-size: 20px;
     line-height: 30px;
     margin-bottom: 0px;
-    
+    margin-left: 30px;
 }
 
 content.p{
@@ -90,7 +90,7 @@ content.p{
 }
 
 .logo{
-    background-image: url(../logo.png);
+    background-image: url(logo.png);
     position: fixed;
     float: left;
     height: 100px;
@@ -109,29 +109,33 @@ youtube1{
     float: left ;
 }
 h1{
-    text-align: center;
-    margin: 30px auto;
+    text-align:left;
+    margin: 50px auto;
     font-size: 50px;
     margin-bottom: 20px;
+     margin-left: 30px;
 }
 h2{
-   text-align: center;
+   text-align: left;
     margin: 30px auto;
     font-size: 50px;
     margin-bottom: 20px;
+     margin-left: 30px;
 }
 h3{
-    text-align: center;
+    text-align: left;
     margin: 30px auto;
     font-size: 50px;
     margin-bottom: 20px;
+    margin-left: 30px;
     
 }
 h{
-    text-align: center;
+    text-align: left;
     margin: auto;
     font-size: 30px;
     margin-bottom: 30px;
+    margin-left: 30px
 }
 
 footer{
